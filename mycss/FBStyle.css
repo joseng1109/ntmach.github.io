@@ -1,0 +1,48 @@
+#loginlogout
+{
+	background-color: white;
+	border-top:1px white solid;
+	border-left:1px black solid;
+	border-right:1px black solid;
+}
+#header
+{
+ 
+
+background-color: #387BD6;
+width:100%;
+position: relative;
+color: white;
+border: 1px black solid;
+
+
+
+
+
+
+}
+#container
+{
+	background-color: white;
+	color:black;
+	border-top:1px white solid;
+	border-left:1px black solid;
+	border-right:1px black solid;
+	border-bottom:1px black solid;
+	margin-top:0;
+	padding-top: 0;
+}
+body
+{
+	background-image:url(../img/smc.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-color:white;
+}
+body,
+html
+{
+	min-height:100%;
+	margin:0;
+	padding:0;
+}
