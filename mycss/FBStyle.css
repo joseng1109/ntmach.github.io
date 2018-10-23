@@ -2,7 +2,7 @@
 {
 	background-color: white;
 	border-top:1px white solid;
-	
+	opacity: 0.5;
 }
 #header
 {
@@ -30,6 +30,7 @@ border: 1px black solid;
 	border-bottom:1px black solid;
 	margin-top:0;
 	padding-top: 0;
+	opacity: 0.5;
 }
 body
 {
